@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1043027367955",
+    "project_id": "rabet-game-now",
+    "storage_bucket": "rabet-game-now.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043027367955:android:a0e859db472e5d911dc7e6",
+        "android_client_info": {
+          "package_name": "com.gamenowstationx.arabetgamenow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043027367955-a780mcsouum480r4nhsso1nujoej3ltv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWyZ4s4x2PLprQnptfHwlqO7TuFlsozqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043027367955-a780mcsouum480r4nhsso1nujoej3ltv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
